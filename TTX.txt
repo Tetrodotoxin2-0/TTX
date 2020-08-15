@@ -1,0 +1,7 @@
+clear;
+echo "";
+echo -e "\033[32m$(figlet -f TTX.flf "$TNAME")\033[0m";
+echo "";
+#echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
+#echo -e '\033[1;43;30m### I'm Tetrodotoxin 2.0 [ <~ Team Tetrodotoxin~> ] ### \033[0m';
+#echo -e '\e[0;35m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[00m';
